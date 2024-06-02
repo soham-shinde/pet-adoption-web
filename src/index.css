@@ -10,7 +10,7 @@
 
 .home-container{
   background-color: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%,rgba(0,0,0,0.5)50%);
-  background-image:  url('img/bg1.jpg');
+  background-image:  url('/img/bg1.jpg');
   height: 100vh;
   background-position: center;
   background-size: cover;
