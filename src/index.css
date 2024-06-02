@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.raw-container {
+  background-color: #0101017b;
+
+}
+
+.home-container{
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%,rgba(0,0,0,0.5)50%), url('img/bg1.jpg');
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  overflow-y: scroll;
+}
